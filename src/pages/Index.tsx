@@ -112,7 +112,7 @@ export default function Index() {
             onClick={() => scrollTo("home")}
             className="font-display text-xl font-semibold text-primary tracking-wide"
           >
-            Анна Петрова
+            Валерия Семёнова
           </button>
 
           <nav className="hidden md:flex items-center gap-8">
@@ -173,14 +173,14 @@ export default function Index() {
                   Коррекционное образование · 1–4 класс
                 </p>
                 <h1 className="font-display text-5xl md:text-7xl font-light text-white leading-tight mb-6 animate-fade-in-up delay-100">
-                  Анна<br />
+                  Валерия<br />
                   <span className="italic">Сергеевна</span><br />
-                  Петрова
+                  Семёнова
                 </h1>
                 <span className="block w-12 h-0.5 bg-white/60 mb-6 animate-fade-in-up delay-200" />
                 <p className="font-body text-lg text-white/85 leading-relaxed mb-8 animate-fade-in-up delay-300">
                   Учитель начальных классов коррекционного образования.<br />
-                  Стаж — 14 лет. Помогаю каждому ребёнку найти свой путь к знаниям.
+                  Стаж — 1 год. Помогаю каждому ребёнку найти свой путь к знаниям.
                 </p>
                 <div className="flex flex-wrap gap-4 animate-fade-in-up delay-400">
                   <button
@@ -384,7 +384,7 @@ export default function Index() {
         <div className="max-w-6xl mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-start gap-8">
             <div>
-              <h3 className="font-display text-2xl font-semibold mb-2">Анна Сергеевна Петрова</h3>
+              <h3 className="font-display text-2xl font-semibold mb-2">Семёнова Валерия Сергеевна</h3>
               <p className="font-body text-primary-foreground/70 text-sm">
                 Учитель начальных классов<br />
                 коррекционного образования
@@ -418,7 +418,7 @@ export default function Index() {
           </div>
           <div className="border-t border-white/10 mt-10 pt-6 text-center">
             <p className="font-body text-xs text-primary-foreground/50">
-              © 2026 · Анна Сергеевна Петрова
+              © 2026 · Семёнова Валерия Сергеевна
             </p>
           </div>
         </div>
